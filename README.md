@@ -20,7 +20,7 @@ sequenceDiagram
 	Engine -->> Host: "id name <engine>"
 	Engine -->> Host: "id author <author>"
 	Engine -->> Host: "uciok"
-	deacticate Engine
+	deactivate Engine
 	
 	Host ->> Engine: "isready"
 	activate Engine
