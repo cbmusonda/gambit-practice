@@ -1,5 +1,5 @@
 # gambit-practice
-author: Changwe Musonda
+Author: Changwe Musonda
 demo in class
 ```mermaid
 sequenceDiagram
