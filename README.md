@@ -13,4 +13,4 @@ sequenceDiagram
 	participant MoveObj as Move (Move.fromUci / toUci)
 
 
-```mermaid
+```
